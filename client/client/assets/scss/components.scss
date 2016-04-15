@@ -1,0 +1,32 @@
+#sidebar {
+	background: #607D8B;
+
+	h1 {
+		color: #FFFFFF;
+	}
+	p {
+		font-size: 120%;
+		color: #CFD8DC;
+	}
+}
+#top,
+#bottom {
+	height: 50%;
+	background: #455A64;
+	padding: 1em;
+}
+
+.edit-content {
+	padding: 4%;
+}
+.textarea-page {
+	background: #FFFFFF;
+	padding: 5% 7%;
+
+	textarea {
+		font-size: 180%;
+		line-height: 150%;
+
+		height: 80em;
+	}
+}
