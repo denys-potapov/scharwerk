@@ -29,7 +29,7 @@ var paths = {
   // Sass will check these folders for files when you use @import.
   sass: [
     'client/assets/scss',
-    'bower_components/foundation-apps/scss'
+    'bower_components/foundation-sites/scss'
   ],
   // These files include Foundation for Apps and its dependencies
   foundationJS: [
@@ -39,10 +39,7 @@ var paths = {
     'bower_components/hammerjs/hammer.js',
     'bower_components/angular/angular.js',
     'bower_components/angular-animate/angular-animate.js',
-    'bower_components/angular-ui-router/release/angular-ui-router.js',
-    'bower_components/foundation-apps/js/vendor/**/*.js',
-    'bower_components/foundation-apps/js/angular/**/*.js',
-    '!bower_components/foundation-apps/js/angular/app.js'
+    'bower_components/angular-ui-router/release/angular-ui-router.js'
   ],
   // These files are for your app's JavaScript
   appJS: [
